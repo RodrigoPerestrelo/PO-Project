@@ -1,7 +1,9 @@
 # PO-Project
 Object-Oriented Programming Project
 
+Problem descriptions in Portuguese
 
+The projects were done in collaboration with: https://github.com/crispantea
 
 ## UML project:
 2.25/3
