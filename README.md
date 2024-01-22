@@ -1,7 +1,7 @@
 # PO-Project
 Object-Oriented Programming Project
 
-Problem descriptions in Portuguese
+Problem description in Portuguese
 
 The projects were done in collaboration with: https://github.com/crispantea
 
